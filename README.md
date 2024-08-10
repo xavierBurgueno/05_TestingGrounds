@@ -1,4 +1,4 @@
-## Testing Grounds - Unreal Game - Online Course Repo
+## Testing Grounds - Unreal Game - Online
 
 **Learning Outcome**
 
